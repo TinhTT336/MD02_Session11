@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user_name": "Nguyen Van A",
+      "gender": 0,
+      "dateOfBirth":"20/11/2000";
+      "address": "Thanh Xuan, Ha Noi",
+      "email": "an@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Cam sanh",
+      "price": 20000,
+      "from": "mien Tay"
+    },
+    {
+      "id": 2,
+      "product_name": "Cam vàng",
+      "price": 40000,
+      "from": "mien Tay"
+    },
+    {
+      "product_name": "Chôm chôm",
+      "price": 35000,
+      "from": "Miền Nam",
+      "id": 5
+    },
+    {
+      "product_name": "Ổi hồng",
+      "price": 40000,
+      "from": "Miền Nam",
+      "id": 6
+    },
+    {
+      "product_name": "Bưởi da xanh",
+      "price": 56000,
+      "from": "Miền Nam",
+      "id": 7
+    }
+  ]
+}

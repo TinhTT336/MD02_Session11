@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user_name": "Nguyen Van A",
+      "gender": 0,
+      "address": "Thanh Xuan, Ha Noi",
+      "email": "an@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Cam sanh",
+      "price": 20000,
+      "from": "mien Tay"
+    }
+  ]
+}

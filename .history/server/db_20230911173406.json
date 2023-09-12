@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "email": "ba@gmail.com",
+      "password": "$2a$10$dR3OnjgY62k9wRyVo5LbNeqOKyZL54t2fqGn3sQJJPeKdv6eA7BPC",
+      "user_name": "Nguyễn Văn B",
+      "gender": 1,
+      "address": "Hà Nội ",
+      "dateOfBirth": "20/01/2004",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Cam sanh",
+      "price": 20000,
+      "from": "mien Tay"
+    },
+    {
+      "id": 2,
+      "product_name": "Cam vàng",
+      "price": 40000,
+      "from": "mien Tay"
+    },
+    {
+      "product_name": "Chôm chôm",
+      "price": 35000,
+      "from": "Miền Nam",
+      "id": 5
+    },
+    {
+      "product_name": "Ổi hồng",
+      "price": 40000,
+      "from": "Miền Nam",
+      "id": 6
+    },
+    {
+      "product_name": "Bưởi da xanh",
+      "price": 56000,
+      "from": "Miền Nam",
+      "id": 7
+    }
+  ]
+}
